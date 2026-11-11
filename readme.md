@@ -71,6 +71,6 @@ Trabajé en equipo en este proyecto. Me encargué del desarrollo del frontend en
 
 El sistema se desplegó originalmente con base de datos y almacenamiento en Azure. La suscripción expiró, por lo que esos servicios ya no están disponibles. Para ejecutarlo localmente hay que crear la base de datos con los scripts incluidos y configurar `appsettings.json`.
 
-## Capturas
+
 
 <!-- Agregar aquí capturas del panel de reportes y de la vista del ciudadano -->
