@@ -4,17 +4,6 @@ Sistema de gestión de deterioro urbano para municipalidades. Proyecto de Títul
 
 UrbanIntel permite a los ciudadanos reportar fallas en la ciudad (alumbrado público, baches, etc.) y a los funcionarios municipales gestionarlas desde un panel de administración.
 
-## Funcionalidades
-
-**Ciudadano**
-- Reporte de fallas urbanas por categoría.
-- Seguimiento de las solicitudes enviadas.
-
-**Funcionario municipal**
-- Atención de solicitudes y asignación de estados.
-- Vista de reportes con gráficos de barras (solicitudes por tipo, categorías predominantes) y filtros por criterios.
-- Exportación de datos a PDF y Excel.
-
 ## Tecnologías
 
 - **Frontend:** Angular 18, TypeScript
@@ -22,8 +11,6 @@ UrbanIntel permite a los ciudadanos reportar fallas en la ciudad (alumbrado púb
 - **Autenticación:** JWT
 - **Base de datos:** SQL Server (scripts en `Documentos UrbanIntel/Scripts DB`)
 - **Servicios:** Azure Blob Storage (imágenes de solicitudes), SMTP (correos)
-
-## Mi participación
 
 ## Mi participación
 
